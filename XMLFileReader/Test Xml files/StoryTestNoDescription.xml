@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<story>
+
+<scene scene="1">
+
+In a beautiful garden... Three kids are picking apples.
+
+<name>Jack</name>
+<dialogue dialogue ="1">This apple is red.</dialogue>
+
+<name>Elise</name>
+<dialogue dialogue ="2">And this one is green. </dialogue>
+
+<name>Tom</name>
+<dialogue dialogue="3">I found a yellow one!</dialogue>
+
+<name>Jack</name>
+<dialogue dialogue ="4">There sure are many colors for a single fruit</dialogue>
+
+
+
+</scene>
+
+<scene scene="2">
+
+<description>
+In a lively town, another three kids are buying apples.
+</description>
+
+<name>John</name>
+<dialogue dialogue ="1">This apple is awful.</dialogue>
+
+<name>Elise</name>
+<dialogue dialogue ="2">And this one is green. </dialogue>
+
+<name>Tom</name>
+<dialogue dialogue="3">I found a yellow one!</dialogue>
+
+<name>John</name>
+<dialogue dialogue ="4">Why are they so bad</dialogue>
+
+</scene>
+
+</story>

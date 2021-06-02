@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dialogue>
+<forest scene="1">
+<Jack actor ="1" order ="2">This apple is red.</Jack>
+<Elise actor ="2" order ="3">And this one is green. </Elise>
+<Tom actor ="3" order="1">I found a yellow one!</Tom>
+<Jack actor ="1" order ="4">There sure are many colors for a single fruit</Jack>
+</forest>
+</dialogue>

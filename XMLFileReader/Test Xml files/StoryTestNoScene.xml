@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<story>
+
+<name>Jack</name>
+<dialogue dialogue ="1">This apple is red.</dialogue>
+
+<name>Elise</name>
+<dialogue dialogue ="2">And this one is green. </dialogue>
+
+<name>Tom</name>
+<dialogue dialogue="3">I found a yellow one!</dialogue>
+
+<name>Jack</name>
+<dialogue dialogue ="4">There sure are many colors for a single fruit</dialogue>
+
+<name>John</name>
+<dialogue dialogue ="1">This apple is awful.</dialogue>
+
+<name>Elise</name>
+<dialogue dialogue ="2">And this one is green. </dialogue>
+
+<name>Tom</name>
+<dialogue dialogue="3">I found a yellow one!</dialogue>
+
+<name>John</name>
+<dialogue dialogue ="4">Why are they so bad</dialogue>
+
+</story>
